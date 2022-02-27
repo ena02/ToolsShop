@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ToolsShop">
         <activity
+            android:name=".DrillDetailActivity"
+            android:exported="false" />
+        <activity
             android:name=".DrillCategoryActivity"
             android:exported="false" />
         <activity
